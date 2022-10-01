@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xD9bAf8A0733f03BC9b78A0fa361AB0f85f856bd3",
+  "SCAN_LINK": "https://mainnet.ethwscan.com/token/0xd9baf8a0733f03bc9b78a0fa361ab0f85f856bd3#balances",
+  "NETWORK": {
+    "NAME": "ETHW-mainnet",
+    "SYMBOL": "ETHW",
+    "ID": 10001
+  },
+  "NFT_NAME": "Clown Pow",
+  "SYMBOL": "CLP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NUWTON",
+  "MARKETPLACE_LINK": "https://nuwton.io/zh-CN/collection/clown-pow",
+  "DISCORD": "https://testnets.opensea.io",
+  "TELEGRAM": "https://testnets.opensea.io/zh-CN/collection",
+  "TWITTER": "https://testnets.opensea.io/zh-CN/collection/clo-pow",
+  "SHOW_BACKGROUND": true
+}
